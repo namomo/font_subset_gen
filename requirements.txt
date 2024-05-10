@@ -1,0 +1,6 @@
+Brotli==1.1.0
+brotlipy==0.7.0
+cffi==1.16.0
+fonttools==4.51.0
+pycparser==2.22
+zopfli==0.2.3
